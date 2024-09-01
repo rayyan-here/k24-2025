@@ -1,0 +1,49 @@
+Objective 3: ALGORITHM
+
+Task 3: Simple Calculator
+
+Ask the user to enter the first number
+Ask the user to enter the second number
+Ask the user to enter the operation he wants to perform  
+
+Now use the case statement 
+Case 1 if user enter  (+)_
+Add both the numbers
+Display the sum
+ 
+Case 2 if user enters (-)	
+Subtract both the number
+Display the subtraction 
+
+Case 3 if user enters ( x)
+Multiply both the numbers
+Display the product
+Case 4 if user enters (/)
+Divide the first number by second 
+Display their division
+
+Case 5 if user enters (%)
+Check if the number one is divisible by second number
+Display the remainder
+
+End
+
+
+
+
+               Task 1
+
+Enter the first number you want to divide 
+Enter the second number (devisor) 
+
+Set remainder = 0
+ If first number % second number == 0
+Display the second number is devisor of the first number
+
+// to check whether the number is even or odd
+If first number % 2 == 0
+Display the number is even 
+Else 
+ Display The number is odd
+
+End
