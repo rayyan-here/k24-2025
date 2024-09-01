@@ -1,0 +1,46 @@
+              Objective 2: PSEUDOCODE
+
+•	Task 02
+
+START
+
+Input/Output
+INPUT number1
+INPUT number2
+INPUT number3
+
+// variables and Initialization
+SET sum to 0
+
+// Process Steps
+sum= number1-(-number2)-(-number3)
+
+Output
+Print sum
+END
+
+
+
+•	Task 03
+
+Start
+
+//Input/output
+Enter first number:
+Enter second number:
+Enter the operator (operation you want to perform):
+
+//Initialization
+Sum=0
+Difference=0
+
+//using conditional statement
+case 1: (operator == +)
+sum= first number + second number
+print sum 
+
+case 2: (operator == -)
+difference = first number – second number
+print difference
+
+End 
